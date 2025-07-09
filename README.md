@@ -1,2 +1,2 @@
 # projects
-My projects: in uni and at home.
+My projects: at the uni and at home.
